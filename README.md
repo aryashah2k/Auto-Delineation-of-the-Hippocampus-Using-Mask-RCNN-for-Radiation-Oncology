@@ -2,9 +2,9 @@
 
 This repository holds the code for our paper published in the Journal of Cancer Research and Therapeutics
 
-![jcrt]()
+![jcrt](https://github.com/aryashah2k/Auto-Delineation-of-the-Hippocampus-Using-Mask-RCNN-for-Radiation-Oncology/blob/main/assets/jcrt_logo.PNG)
 
-![authors]()
+![authors](https://github.com/aryashah2k/Auto-Delineation-of-the-Hippocampus-Using-Mask-RCNN-for-Radiation-Oncology/blob/main/assets/title_authors.PNG)
 
 --------------------
 
